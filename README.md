@@ -2,7 +2,7 @@ Hi 👋 My name is Razvan
 =======================
 Student at the UPB ACS alongside working and teaching others
 ------------------------------------------------------------
-I am a highly-motivated and inspired person looking to connect and thrive, always sticking to the future. Currently pursuing a bachelor's degree at the Faculty of Automatic Control and Computer Science, University Politehnica Bucharest while working at \_VOIS and also helping students achieve their goals by being an undergraduate teaching assistant on Java (OOP).
+I am a highly-motivated and inspired person looking to connect and thrive, always sticking to the future. Currently pursuing a bachelor's degree at the Faculty of Automatic Control and Computer Science, University Politehnica Bucharest while working at \_VOIS and also helping students achieve their goals by being an undergraduate teaching assistant on OOP (Java)
 * 🌍  I'm based in Bucharest but originating from Constanta
 * 🖥️  See my portfolio at [Github projects](http://github.com/razvanabagiu89)
 * ✉️  You can contact me at [abagiurazvan8989@gmail.com](mailto:abagiurazvan8989@gmail.com)
