@@ -1,6 +1,6 @@
 Hi 👋 My name is Răzvan
 =======================
-DevOps Engineer & Student enrolled in a Master at the Faculty of Automatic Control and Computer Science UPB
+Senior DevOps Engineer
 ------------------------------------------------------------
 I am a highly-motivated and inspired person looking to connect and thrive, always sticking to the future.
 * 🌍  Based in Bucharest.
